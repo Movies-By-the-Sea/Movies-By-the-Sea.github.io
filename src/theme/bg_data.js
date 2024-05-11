@@ -1,21 +1,31 @@
+import landing_page from '../media/images/bg/landing_page.webp';
+import top_30 from '../media/images/bg/top_30.webp';
+import collections from '../media/images/bg/collections.webp';
+
+import top_30_alt from '../media/images/bg/mobile/top_30.webp';
+import collections_alt from '../media/images/bg/mobile/collections.webp';
+
+import landing_page_vd from '../media/video/landing_page.webm';
+
+
 export const bg_data = {
     landingPage: {
-        image: "https://ik.imagekit.io/mbts/landing_page_UbSj4_6Ut.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1645937449100",
+        image: landing_page,
         alt: undefined,
-        video: "https://ik.imagekit.io/mbts/Videos/landing_page_QaZ6jGVii.webm?ik-sdk-version=javascript-1.4.3&updatedAt=1655404316574",
+        video: landing_page_vd,
         api_endpoint: "motd",
         info: undefined
     },
     top30: {
-        image: "https://ik.imagekit.io/mbts/top30_nnzfgf-gm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646124049610",
-        alt: "https://ik.imagekit.io/mbts/top30mob_rUIwxy1GF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646131895099",
+        image: top_30,
+        alt: top_30_alt,
         video: undefined,
         api_endpoint: "top30",
         info: undefined
     },
     collections: {
-        image: "https://ik.imagekit.io/mbts/pexels-yelena-odintsova-10556717_bhw3cW4rN.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1647329042970",
-        alt: "https://ik.imagekit.io/mbts/pexels-yelena-odintsova-10556717_bhw3cW4rN.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1647329042970",
+        image: collections,
+        alt: collections_alt,
         video: undefined,
         api_endpoint: undefined,
         info: undefined

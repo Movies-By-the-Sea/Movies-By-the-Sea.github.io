@@ -1,6 +1,6 @@
 {
   "homepage": "https://movies-by-the-sea.github.io",
-  "name": "frontend",
+  "name": "mbts-frontend",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -20,7 +20,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b production -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
