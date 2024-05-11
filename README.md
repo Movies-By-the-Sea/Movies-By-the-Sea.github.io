@@ -4,7 +4,7 @@ Files for the MBTS frontend, build using ReactJS.
 
 [Figma FrameWork](https://www.figma.com/file/HGGsGDQcVxS6AQEClTuk72/Iteration-4?node-id=0%3A1)
 
-[Github Pages hosted](https://movies-by-the-sea.github.io)
+[https://movies-by-the-sea.github.io](https://movies-by-the-sea.github.io)
 
 ## Available Scripts
 
