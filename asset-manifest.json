@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ffbd6087.css",
+    "main.js": "/static/js/main.fbbc2789.js",
+    "static/js/787.2e141b85.chunk.js": "/static/js/787.2e141b85.chunk.js",
+    "static/media/landing_page.webm": "/static/media/landing_page.e0bc42104e3287ce5d5b.webm",
+    "static/media/loading.gif": "/static/media/loading.dae4fa2ccc90a0024305.gif",
+    "static/media/search.webp": "/static/media/search.eac46b9bae9cceedc95e.webp",
+    "static/media/essentials.webp": "/static/media/essentials.3c9154a472bb7ca2aab8.webp",
+    "static/media/action.webp": "/static/media/action.1b809f432ad9efdf4076.webp",
+    "static/media/horror.webp": "/static/media/horror.23949ae0102f02ac3c23.webp",
+    "static/media/collections.webp": "/static/media/collections.139c45b765d37e90885b.webp",
+    "static/media/international.webp": "/static/media/international.d9e2e6804bc4ed778528.webp",
+    "static/media/meta.jpg": "/static/media/meta.4f825669dd9ffe6154b7.jpg",
+    "static/media/romantic.webp": "/static/media/romantic.8916a250b27b0dc854e5.webp",
+    "static/media/true_story.webp": "/static/media/true_story.45ee364f8aa7bebacf79.webp",
+    "static/media/MustWatch.webp": "/static/media/MustWatch.f970a6c70dc406558ee6.webp",
+    "static/media/lighthearted.webp": "/static/media/lighthearted.168bf6cdc75c50710601.webp",
+    "static/media/True Stories.webp": "/static/media/True Stories.57393bc3b096f7e3ffbf.webp",
+    "static/media/landing_page.webp": "/static/media/landing_page.7a984f1b93c51761e06f.webp",
+    "static/media/scifi.webp": "/static/media/scifi.973a4b1b40e0a55fa8c0.webp",
+    "static/media/Lighthearted.webp": "/static/media/Lighthearted.15d48041210200d548a7.webp",
+    "static/media/Horror Nights.webp": "/static/media/Horror Nights.69a53e8ac6261f6e6083.webp",
+    "static/media/animated.webp": "/static/media/animated.efa599bfe290c022481b.webp",
+    "static/media/The Meta Experience.webp": "/static/media/The Meta Experience.bbf6ea2c63ae69cf67bc.webp",
+    "static/media/International Affair.webp": "/static/media/International Affair.8062ea7ab3f122deac3f.webp",
+    "static/media/Mystery.webp": "/static/media/Mystery.92be285c609ab9e83b2a.webp",
+    "static/media/Action.webp": "/static/media/Action.6344fa76c5236dd59005.webp",
+    "static/media/Drama.webp": "/static/media/Drama.508007a15d9874c562e4.webp",
+    "static/media/drama.webp": "/static/media/drama.bbd24a9bf7225a4bc402.webp",
+    "static/media/about.webp": "/static/media/about.0e4a9fbd66531c500659.webp",
+    "static/media/mystery.webp": "/static/media/mystery.9486d462241c417747b8.webp",
+    "static/media/top_30.webp": "/static/media/top_30.2cd74fa9f86f784da983.webp",
+    "index.html": "/index.html",
+    "main.ffbd6087.css.map": "/static/css/main.ffbd6087.css.map",
+    "main.fbbc2789.js.map": "/static/js/main.fbbc2789.js.map",
+    "787.2e141b85.chunk.js.map": "/static/js/787.2e141b85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffbd6087.css",
+    "static/js/main.fbbc2789.js"
+  ]
+}
